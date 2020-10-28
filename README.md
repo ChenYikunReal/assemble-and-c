@@ -7,6 +7,8 @@
 
 `gcc hello.s -o hello`
 
+[学习网址](https://gcc.gnu.org/onlinedocs/gcc/Using-Assembly-Language-with-C.html)
+
 ## C语言调用汇编语言代码示例
 
 Demo1：
